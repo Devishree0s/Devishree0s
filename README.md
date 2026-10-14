@@ -1,5 +1,5 @@
 # 💫 About Me:
-📑 Check out my resume here - My Resume<br><br>💻 All of my projects are available on GitHub<br><br>📫 Reach out to me at devishrees204@gmail.com
+📑 Check out my resume here - My Resume(./Devishree_S_AllRounder_Resume.pdf)<br><br>💻 All of my projects are available on GitHub<br><br>📫 Reach out to me at devishrees204@gmail.com
 
 
 ## 🌐 Socials:
